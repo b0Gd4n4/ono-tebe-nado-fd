@@ -32,10 +32,10 @@
 
 
 .header__menu-link {
-   color: black;
-   font-size: 18px;
-   line-height: 1.2; 
-   text-decoration: underline;
+    color: black;
+    font-size: 18px;
+    line-height: 1.2; 
+    text-decoration: underline;
     text-underline-offset: 4px
 }
 
