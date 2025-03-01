@@ -6,9 +6,6 @@
     margin: 0;
     align-items: center;
     
-   
-    
-  
 }
 
 
@@ -29,7 +26,6 @@
     list-style-position: inside;
     
 }
-
 
 .header__menu-link {
     color: black;
@@ -63,9 +59,8 @@
     line-height: 1.2;
     font-style: normal;
     padding-bottom: 3px;
-    
-    
 }
+
 .header__adress {
     padding: 8px 42px 1px 186px;
     text-decoration: underline;
