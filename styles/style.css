@@ -126,11 +126,6 @@
   align-items: flex-start;
   justify-content: space-between;
 }
-.description__container {
-  display: flex;
-  align-items: center;
-  gap: 107px;
-}
 
 .text__description {
   display: flex;
@@ -140,6 +135,7 @@
   text-transform: uppercase;
   align-items: center;
   word-spacing: 18.5px;
+  padding-top: 14px;
 }
 
 .text__button {
@@ -225,7 +221,6 @@
 
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
-  
 }
 
 .card_type_book {
@@ -299,14 +294,12 @@
   grid-template-columns: repeat(3, 1fr);
 }
 
-
 .footer__address-text {
   text-decoration: underline;
   text-underline-offset: 4px;
   text-decoration-thickness: 1px;
   padding-left: 49px;
   padding-bottom: 4px;
-
 }
 
 .footer__text {
