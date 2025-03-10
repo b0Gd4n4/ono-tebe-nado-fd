@@ -55,12 +55,9 @@
 .address__items {
   text-decoration: underline;
   text-underline-offset: 4px;
-
 }
 
 .address__header {
-  display: flex;
-  flex-direction: column;
   padding: 1px 25px 10px 186px;
   gap: 4px;
 }
@@ -68,7 +65,6 @@
 .address__text {
   font-style: normal;
 }
-
 
 .cover {
   background-image: url(../images/cover.jpg);
@@ -175,7 +171,7 @@
 
 .lots__card-list {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 25px;
   margin-top: 27px;
 }
@@ -303,12 +299,9 @@
 }
 
 .address__footer {
-  display: flex;
-  flex-direction: column;
   padding-left: 50px;
   gap: 4px;
 }
-
 
 .footer__social-icon {
   width: 48px;
